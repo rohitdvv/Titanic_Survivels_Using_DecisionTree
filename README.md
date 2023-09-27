@@ -1,1 +1,1 @@
-# Titanic_Survivels_Using_RandomTree
+# Titanic_Survivels_Using_DecisionTree
